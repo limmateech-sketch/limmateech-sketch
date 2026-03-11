@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Ailton Lima Junior</h1>
 
-<!--
-**limmateech-sketch/limmateech-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Desenvolvedor Back-end Python | Técnico em Informática | Designer Gráfico</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 Sobre mim
+
+Sou profissional de tecnologia com experiência em suporte técnico, manutenção de computadores e desenvolvimento de sistemas utilizando Python.
+
+Tenho formação técnica em informática e graduação em Design Gráfico, o que me permite unir conhecimento técnico com visão de design e usabilidade.
+
+Atualmente estou focado em desenvolvimento **Back-end com Python e Django**.
+
+---
+
+# 🚀 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,git,github,html,css,sqlite,vscode"/>
+</p>
+
+---
+
+# 📚 Projeto em Destaque
+
+## Sistema Livraria AFI
+
+Sistema CRUD desenvolvido com Django para gerenciamento de livros.
+
+🔗 Repositório  
+https://github.com/limmateech-sketch/livraria-afi
+
+---
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=limmateech-sketch&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limmateech-sketch&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+📧 Email: **limmajjunior@gmail.com**
+
+📍 Salvador - BA
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
