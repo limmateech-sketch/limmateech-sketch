@@ -78,16 +78,6 @@ https://github.com/limmateech-sketch/pulse-escolar
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=limmateech-sketch&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 📧 Email: limmajjunior@gmail.com  
